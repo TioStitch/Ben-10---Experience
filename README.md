@@ -7,4 +7,4 @@ Modelos 3D:
 **Diamante**: https://sketchfab.com/3d-models/diamondhead-ben-10-14d80a6b70ce4732b35a6bf88899f2cc
 **Ben Tennynson**: 
 **Chamas**: https://sketchfab.com/3d-models/heatblast-820a15e5fdfc4b62a64208d2338af33c & austinthebear 
-**Upgrade**: 
+**Upgrade**: https://sketchfab.com/3d-models/upgrade-ben-10-classic-5337fce581ca4b1083521a8e910234ad & austinthebear 
